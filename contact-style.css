@@ -1,0 +1,19 @@
+.contact-screen {
+    float: center;
+    margin-left: 15%;
+}
+
+.contact-screen h1{
+    position: relative;
+    color: #fff;
+    width: 50%;
+    margin-top: 180px;
+    font-size: 45px;
+}
+
+.contact-screen p {
+    color: #919191;
+    font-size: 25px;
+    margin-top: 20px;
+    width: 50%;
+}

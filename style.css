@@ -110,3 +110,8 @@
     margin: 0 30px;
     cursor: pointer;
 }
+
+.bottom-btn {
+    color: black;
+    text-decoration: none;
+}
